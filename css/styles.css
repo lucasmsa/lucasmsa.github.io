@@ -1,0 +1,48 @@
+body {
+  background-color: #142850;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.myImg {
+  margin-top: 5%;
+  text-align: center;
+  width: 20%;
+  border: 4px solid white;
+  opacity: 0.95;
+}
+
+.line {
+  width: 45%;
+  border: 2px solid #142850;
+}
+
+.name {
+  text-align: center;
+  margin: 3.5% auto 2.5%;
+}
+
+.text {
+  margin: 3.5% auto 6%;
+  text-align: center;
+}
+
+.container {
+  border-radius: 25px;
+  background-color: #27496d;
+  margin-top: 5%;
+  padding-bottom: 2%;
+}
+
+.fa-3x {
+  color: white;
+}
+
+.fa-3x:hover {
+  color: lightBlue;
+}
+
+.fa-envelope{
+  margin: auto 2%;
+  display: inline-block;
+}
